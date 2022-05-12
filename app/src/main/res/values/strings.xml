@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="app_title">News Reader</string>
+    <string name="reload">Reload</string>
+    <string name="general_error">An error occurred. Please try again later.</string>
+    <string name="settingName">Settings</string>
+</resources>
